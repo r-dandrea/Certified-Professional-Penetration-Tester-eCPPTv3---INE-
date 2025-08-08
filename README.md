@@ -67,7 +67,7 @@ The exam is to be completed within **24 hours**, and you are required to submit 
 ## Table of useful command
 
  
-![eCPPT_DANDREA_CERTIFICATION](eCPPT_V3_DANDREA.png)
+![eCPPT_DANDREA_CERTIFICATION](eCPPTv3_DANDREA.png)
 
 ### Conclusion
 
